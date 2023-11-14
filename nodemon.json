@@ -1,0 +1,5 @@
+{
+  "exec": "tsc & node dist",
+  "ext": "ts",
+  "watch": ["src"]
+}
